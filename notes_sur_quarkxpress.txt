@@ -1,0 +1,9 @@
+Notes sur QuarkXPress
+
+Cours suivis en stage à l’INFA-Paca, session 2009-2010
+
+
+
+LES OUTILS
+
+Outil bloc (pomme + f) : forme un cadre pour importer une image.
