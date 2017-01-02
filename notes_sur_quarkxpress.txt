@@ -7,3 +7,31 @@ Cours suivis en stage à l’INFA-Paca, session 2009-2010
 LES OUTILS
 
 Outil bloc (pomme + f) : forme un cadre pour importer une image.
+
+Outil Rotation
+
+Outil Tableau
+
+Outil Trait
+
+Outil Sélection : pour obtenir des infos.
+
+Outil chaînage : relier les blocs textes entre eux.
+
+
+IMPRESSION
+
+Faire une impression permet de connaître la taille exacte du document.
+
+
+IMPORTATION D'UNE IMAGE
+
+Lorsque l'on a importer une image on peut faire Style > Adapter le bloc à l'image.
+
+
+CONFIGURATION D'UN BLOC TEXTE
+
+Édition > Feuille de Style > Caractères
+Édition > Feuille de Style > Paragraphes
+
+Le pictogramme chaînage (sorte de 8 horizontal) pour relier des blocs texte entre eux.
