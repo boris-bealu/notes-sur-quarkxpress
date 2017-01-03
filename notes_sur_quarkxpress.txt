@@ -1,12 +1,26 @@
-Notes sur QuarkXPress
+#############################################################
+#											#
+#  Notes sur QuarkXPress							#
+#											#
+#  Cours suivis en stage à l’INFA-Paca, session 2009-2010	#
+#											#
+#############################################################
 
-Cours suivis en stage à l’INFA-Paca, session 2009-2010
+
+Ces recherches ont été réalisées sur QuarkXPress 2016.
 
 
+################
+#              #
+#  LES OUTILS  #
+#              #
+################
 
-LES OUTILS
+Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
 
-Outil bloc (pomme + f) : forme un cadre pour importer une image.
+Outil Contenu d'image (R) : former un cadre pour importer une image.
+
+Outil Modification de texte (T)
 
 Outil Rotation
 
@@ -14,9 +28,20 @@ Outil Tableau
 
 Outil Trait
 
-Outil Sélection : pour obtenir des infos.
-
 Outil chaînage : relier les blocs textes entre eux.
+
+Outil Plume de Bézier (P)
+	Outil Ajouter point (P)
+	Outil Retirer point (P)
+	Outil Convertir point (P)
+	Outil Ciseaux (P)
+	Outil Sélection de point (P)
+	Outil Tracé à main levée (P)
+
+
+LES REPÈRES
+
+(F7)
 
 
 IMPRESSION
@@ -24,14 +49,53 @@ IMPRESSION
 Faire une impression permet de connaître la taille exacte du document.
 
 
+
+###############
+#             #
+#  LES BLOCS  #
+#             #
+###############
+
+
 IMPORTATION D'UNE IMAGE
 
-Lorsque l'on a importer une image on peut faire Style > Adapter le bloc à l'image.
+Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc à l'image" pour redimensionner le bloc selon l'image.
 
 
-CONFIGURATION D'UN BLOC TEXTE
+BLOC TEXTE
 
 Édition > Feuille de Style > Caractères
 Édition > Feuille de Style > Paragraphes
 
 Le pictogramme chaînage (sorte de 8 horizontal) pour relier des blocs texte entre eux.
+
+
+HABILLAGE
+
+Lorsqu'une image est sur un texte, celle-ci peut-être intégrée proprement grâce à la fonction Habillage.
+
+Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifier que "Habiller chaque coté de texte" soit coché dans la palette Spécifications (onglet "Bloc de texte").
+Sélectionner ensuite le bloc image, toujours avec l'Outil Déplacement. Dans la palette Spécifications, se rendre dans l'onglet "Détourage" afin de vérifier que "Bloc" est sélectionné dans le menu déroulant. Se rendre ensuite dans l'onglet "Habillage". Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage et Limites de l'image".
+
+
+FILET
+
+
+CÉSURE
+
+Édition > C&J > Césure (on décoche Césure automatique) > OK
+Permet de désélectionner la césure.
+
+Feuille de style >  Modifier la feuille de style 
+Dans la feuille de style je choisi si je met la césure ou pas. 
+
+Tabulation :
+Édition > Feuille de Style > Paragraphes > Tabulation
+
+
+
+###########################
+#                         #
+#  LES STYLES D'ÉLÉMENTS  #
+#                         #
+###########################
