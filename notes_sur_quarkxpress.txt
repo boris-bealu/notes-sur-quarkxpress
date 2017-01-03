@@ -22,6 +22,9 @@ Outil Contenu d'image (R) : former un cadre pour importer une image.
 
 Outil Modification de texte (T)
 
+Outil Chaînage de texte (N)
+	Outil Séparation de texte (N)
+
 Outil Rotation
 
 Outil Tableau
