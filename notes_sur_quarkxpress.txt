@@ -1,9 +1,9 @@
 #############################################################
-#											#
-#  Notes sur QuarkXPress							#
-#											#
-#  Cours suivis en stage à l’INFA-Paca, session 2009-2010	#
-#											#
+#							    #
+#  Notes sur QuarkXPress				    #
+#						   	    #
+#  Cours suivis en stage à l’INFA-Paca, session 2009-2010   #
+#							    #
 #############################################################
 
 
