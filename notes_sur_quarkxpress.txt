@@ -50,11 +50,6 @@ LES REPÈRES
 (F7)
 
 
-IMPRESSION
-
-Faire une impression permet de connaître la taille exacte du document.
-
-
 
 ###############
 #             #
