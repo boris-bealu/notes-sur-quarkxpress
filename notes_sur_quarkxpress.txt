@@ -19,11 +19,14 @@ Ces recherches ont été réalisées sur QuarkXPress 2016.
 #              #
 ################
 
-Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
+Outil Déplacement (V) : 		pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
 
-Outil Contenu d'image (R) : former un cadre pour importer une image.
+Outil Contenu d'image (R) : 		former un cadre pour importer une image.
 
-Outil Modification de texte (T)
+Outil Modification de texte (T) : 	modifie le texte, comme son nom l'indique, mais modifie aussi le contenu d'un bloc image. 
+					Par exemple, si je souhaite supprimer une image sans toucher au bloc j'utilise alors l'Outil
+					Modification de texte pour cliquer dans l'image pour la sélectionner et la supprimer. Le bloc
+					restera intact.
 
 Outil Chaînage de texte (N)
 	Outil Séparation de texte (N)
@@ -60,10 +63,13 @@ LES REPÈRES
 
 IMPORTATION D'UNE IMAGE
 
-Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc à l'image" pour redimensionner le bloc selon l'image.
+Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" 
+pour redimensionner l'image selon le bloc,.
 
 
-BLOC TEXTE
+BLOC DE TEXTE
+
+Le "Bloc de texte" se manipule depuis la palette Spécifications. 
 
 Édition > Feuille de Style > Caractères
 Édition > Feuille de Style > Paragraphes
@@ -84,15 +90,32 @@ Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage
 FILET
 
 
+
+###########################
+#             		  #
+#  LES FEUILLES DE STYLE  #
+#             		  #
+###########################
+
+
+Lorsque je modifie une feuille de style (Paragraphe ou Caractère), je n'ai pas d'aperçu pour juger en direct des changements que je suis en train d'opérer.
+Pour modifier un feuille de style, je dois cliquer dans le pictogramme qui représente un crayon.
+
 CÉSURE
 
 Édition > C&J > Césure (on décoche Césure automatique) > OK
 Permet de désélectionner la césure.
 
-Feuille de style >  Modifier la feuille de style 
-Dans la feuille de style je choisi si je met la césure ou pas. 
+Feuille de style >  Modifier la feuille de style Paragraphe 
+Dans la feuille de style je choisi si je mets la césure ou pas en sélectionnant "Aucune césure" dans le menu déroulant. 
 
-Tabulation :
+ALIGNEMENT
+
+Feuille de style >  Modifier la feuille de style Paragraphe 
+Dans la feuille de style je choisi le genre d'alignement de texte que je souhaite : Gauche, Centré, Droite, Justifié, Forcé (quel est la différence entre Justifié et Forcé ?). 
+
+TABULATION
+
 Édition > Feuille de Style > Paragraphes > Tabulation
 
 
@@ -103,11 +126,34 @@ Tabulation :
 #                     #
 #######################
 
-Les Bibliothèques permettent de créer des éléments qu'on utilise régulièrement pour respecter une charte graphique de journal par exemple. 
+Les Bibliothèques permettent de créer des éléments qu'on utilise régulièrement pour respecter une charte graphique, de journal par exemple. 
 Ainsi nous aurons sous la main, grâce aux Bibliothèques, les titres, les sous-titres, les colonnes, etc.
 
 Pour créer une Bibliothèque choisissez Fichier > Créer > Bibliothèque… (alt + cmd + n)
 Vous créerez un nouveau répertoire ainsi qu'un nouveau fichier avec l'extension .qxl
 
 Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bibliothèque, s'ouvre dans votre document. C'est ici que vous déposerez vos éléments graphiques récurrents. 
-Il faut donc, au préalable, les avoir créés dans votre page.  
+Il faut donc, au préalable, les avoir créés dans votre page. Dès que vous redémarrerez QuarkXPress, il faudra, sans doutes, réouvrir aussi la bibliothèque. Elle s'affichera d'office en mode palette dans votre document. 
+
+
+
+############################
+#                     	   #
+#  LES RACCOURCIS CLAVIER  #
+#                     	   #
+############################
+
+
+CMD + Z 
+
+Dans QuarXPress, cmd + z peut se répéter plusieurs fois.
+
+
+SHIFT + CMD + M
+
+Centre l'image dans un bloc
+
+
+OPTION + SHIFT + CMD + F
+
+Adapte l'image à la taille du bloc
