@@ -6,11 +6,14 @@
 #  Notes sur QuarkXPress					#
 #								#
 #  Cours suivis en stage à l’INFA-Paca, session 2009-2010	#
+#  								#
+#  Revus en janvier 2017					#
 #								#
 #################################################################
 
 
 Ces recherches ont été réalisées sur QuarkXPress 2016.
+Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
 
 
 ################
@@ -154,6 +157,23 @@ SHIFT + CMD + M
 Centre l'image dans un bloc
 
 
-OPTION + SHIFT + CMD + F
+SHIFT + OPTIONS + CMD + F
 
 Adapte l'image à la taille du bloc
+
+
+SHIFT + OPTIONS + CMD + P
+
+Propriétés de la page. Inaccessible depuis un gabarit.
+
+
+
+############################
+#                     	   #
+#  LES RACCOURCIS CLAVIER  #
+#                     	   #
+############################
+
+
+Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page"
+et se rendre dans "Pages > Repères et grille de maquette…".
