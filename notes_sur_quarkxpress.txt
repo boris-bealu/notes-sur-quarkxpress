@@ -12,8 +12,7 @@
 #################################################################
 
 
-Ces recherches ont été réalisées sur QuarkXPress 2016.
-Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
+Ces recherches ont été réalisées sur QuarkXPress 2016. Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
 
 
 ################
@@ -66,8 +65,7 @@ LES REPÈRES
 
 IMPORTATION D'UNE IMAGE
 
-Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" 
-pour redimensionner l'image selon le bloc,.
+Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" pour redimensionner l'image selon le bloc,.
 
 
 BLOC DE TEXTE
@@ -84,10 +82,7 @@ HABILLAGE
 
 Lorsqu'une image est sur un texte, celle-ci peut-être intégrée proprement grâce à la fonction Habillage.
 
-Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifier que "Habiller chaque coté de texte" soit coché dans la palette Spécifications (onglet "Bloc de texte"). 
-Sélectionner ensuite le bloc image, toujours avec l'Outil Déplacement. Dans la palette Spécifications, se rendre dans l'onglet "Détourage" 
-afin de vérifier que "Bloc" est sélectionné dans le menu déroulant. Se rendre ensuite dans l'onglet "Habillage". 
-Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage et Limites de l'image".
+Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifier que "Habiller chaque coté de texte" soit coché dans la palette Spécifications (onglet "Bloc de texte"). Sélectionner ensuite le bloc image, toujours avec l'Outil Déplacement. Dans la palette Spécifications, se rendre dans l'onglet "Détourage" afin de vérifier que "Bloc" est sélectionné dans le menu déroulant. Se rendre ensuite dans l'onglet "Habillage". Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage et Limites de l'image".
 
 
 FILET
@@ -101,8 +96,7 @@ FILET
 ###########################
 
 
-Lorsque je modifie une feuille de style (Paragraphe ou Caractère), je n'ai pas d'aperçu pour juger en direct des changements que je suis en train d'opérer.
-Pour modifier un feuille de style, je dois cliquer dans le pictogramme qui représente un crayon.
+Lorsque je modifie une feuille de style (Paragraphe ou Caractère), je n'ai pas d'aperçu pour juger en direct des changements que je suis en train d'opérer. Pour modifier un feuille de style, je dois cliquer dans le pictogramme qui représente un crayon.
 
 CÉSURE
 
@@ -129,14 +123,12 @@ TABULATION
 #                     #
 #######################
 
-Les Bibliothèques permettent de créer des éléments qu'on utilise régulièrement pour respecter une charte graphique, de journal par exemple. 
-Ainsi nous aurons sous la main, grâce aux Bibliothèques, les titres, les sous-titres, les colonnes, etc.
+Les Bibliothèques permettent de créer des éléments qu'on utilise régulièrement pour respecter une charte graphique, de journal par exemple. Ainsi nous aurons sous la main, grâce aux Bibliothèques, les titres, les sous-titres, les colonnes, etc.
 
 Pour créer une Bibliothèque choisissez Fichier > Créer > Bibliothèque… (alt + cmd + n)
 Vous créerez un nouveau répertoire ainsi qu'un nouveau fichier avec l'extension .qxl
 
-Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bibliothèque, s'ouvre dans votre document. C'est ici que vous déposerez vos éléments graphiques récurrents. 
-Il faut donc, au préalable, les avoir créés dans votre page. Dès que vous redémarrerez QuarkXPress, il faudra, sans doutes, réouvrir aussi la bibliothèque. Elle s'affichera d'office en mode palette dans votre document. 
+Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bibliothèque, s'ouvre dans votre document. C'est ici que vous déposerez vos éléments graphiques récurrents. Il faut donc, au préalable, les avoir créés dans votre page. Dès que vous redémarrerez QuarkXPress, il faudra, sans doutes, réouvrir aussi la bibliothèque. Elle s'affichera d'office en mode palette dans votre document. 
 
 
 
@@ -168,12 +160,11 @@ Propriétés de la page. Inaccessible depuis un gabarit.
 
 
 
-############################
-#                     	   #
-#  LES RACCOURCIS CLAVIER  #
-#                     	   #
-############################
+##################
+#                #
+#  LES GABARITS  #
+#                #
+##################
 
 
-Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page"
-et se rendre dans "Pages > Repères et grille de maquette…".
+Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page" et se rendre dans "Pages > Repères et grille de maquette…".
