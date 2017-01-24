@@ -1,18 +1,18 @@
 [pour un bon affichage dans Github, enregistrer le document avec un corps de police à 11 pt]
 
-
-#################################################################
-#								#
-#  Notes sur QuarkXPress					#
-#								#
-#  Cours suivis en stage à l’INFA-Paca, session 2009-2010	#
-#  								#
-#  Revus en janvier 2017					#
-#								#
-#################################################################
+##################
+#                #
+# NOTES          #
+# SUR QUARXPRESS #
+#                #
+##################
 
 
-Ces recherches ont été réalisées sur QuarkXPress 2016. Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
+COURS SUIVIS EN STAGE À L’INFA-PACA, SESSION 2009-2010
+COURS REVUS EN JANVIER 2017
+RECHERCHES RÉALISÉES SUR QUARKXPRESS 2016 
+
+Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
 
 
 ################
@@ -21,14 +21,11 @@ Ces recherches ont été réalisées sur QuarkXPress 2016. Lorsque, dans le docu
 #              #
 ################
 
-Outil Déplacement (V) : 		pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
+Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
 
-Outil Contenu d'image (R) : 		former un cadre pour importer une image.
+Outil Contenu d'image (R) : former un cadre pour importer une image.
 
-Outil Modification de texte (T) : 	modifie le texte, comme son nom l'indique, mais modifie aussi le contenu d'un bloc image. 
-					Par exemple, si je souhaite supprimer une image sans toucher au bloc j'utilise alors l'Outil
-					Modification de texte pour cliquer dans l'image pour la sélectionner et la supprimer. Le bloc
-					restera intact.
+Outil Modification de texte (T) : modifie le texte, comme son nom l'indique, mais modifie aussi le contenu d'un bloc image. Par exemple, si je souhaite supprimer une image sans toucher au bloc j'utilise alors l'Outil Modification de texte pour cliquer dans l'image pour la sélectionner et la supprimer. Le bloc restera intact.
 
 Outil Chaînage de texte (N)
 	Outil Séparation de texte (N)
@@ -89,11 +86,12 @@ FILET
 
 
 
-###########################
-#             		  #
-#  LES FEUILLES DE STYLE  #
-#             		  #
-###########################
+################
+#              #
+# LES FEUILLES #
+# DE STYLE     #
+#              #
+################
 
 
 Lorsque je modifie une feuille de style (Paragraphe ou Caractère), je n'ai pas d'aperçu pour juger en direct des changements que je suis en train d'opérer. Pour modifier un feuille de style, je dois cliquer dans le pictogramme qui représente un crayon.
@@ -132,11 +130,12 @@ Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bib
 
 
 
-############################
-#                     	   #
-#  LES RACCOURCIS CLAVIER  #
-#                     	   #
-############################
+##################
+#                #
+# LES RACCOURCIS #
+# CLAVIER        #
+#                #
+##################
 
 
 CMD + Z 
@@ -160,11 +159,11 @@ Propriétés de la page. Inaccessible depuis un gabarit.
 
 
 
-##################
-#                #
-#  LES GABARITS  #
-#                #
-##################
+################
+#              #
+# LES GABARITS #
+#              #
+################
 
 
 Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page" et se rendre dans "Pages > Repères et grille de maquette…".
