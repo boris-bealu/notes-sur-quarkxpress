@@ -1,18 +1,30 @@
 [pour un bon affichage dans Github, enregistrer le document avec un corps de police à 11 pt]
 
-##################
-#                #
-# NOTES          #
-# SUR QUARXPRESS #
-#                #
-##################
+####################
+#                  #
+#      NOTES       #
+#  SUR QUARXPRESS  #
+#                  #
+####################
 
 
 COURS SUIVIS EN STAGE À L’INFA-PACA, SESSION 2009-2010
 COURS REVUS EN JANVIER 2017
 RECHERCHES RÉALISÉES SUR QUARKXPRESS 2016 
 
-Lorsque, dans le document, n'est pas précisé où le lecteur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
+Lorsque, dans le document, n'est pas précisé où l'utilisateur doit se rendre sur l'interface de QuarkXPress, ça signifie qu'il faut passer par le menu en haut de votre écran.
+
+
+
+###############
+#             #
+#  AFFICHAGE  #
+#             #
+###############
+
+Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + G) : affichage du document avant impression
+Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + I) : affichage du document avec ses repères, marges, annotations, etc.
+
 
 
 ################
@@ -84,16 +96,41 @@ Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifie
 
 FILET
 
+???
+
+ALIGNEMENT
+
+Bloc > Espacer/Aligner ou dans la fenêtre Spécifications, Espacer/Aligner. Entre deux éléments, celui qui servira de repère, sur lequel l'autre élément se calera, sera le premier qui a été sélectionné.
 
 
-################
-#              #
-# LES FEUILLES #
-# DE STYLE     #
-#              #
-################
+VERROUILLAGE ET DEVERROUILLAGE
+
+Bloc > Verrouiller > Position (F6). L'élément sera toujours sélectionné. Vérifier qu'il est bien verrouillé en mettant le pointeur de la souris dessus, un cadenas apparaîtra en guise de pointeur.
 
 
+
+##################
+#                #
+#  LES ÉLÉMENTS  #
+#                #
+##################
+
+
+SUPERPOSITION
+
+Lorsque que deux éléments se superposent et que celui en-dessous est inaccessible, maintenez SHIFT + OPTION + CMD en cliquant sur l'élément auquel vous souhaitez accéder. 
+
+
+
+##################
+#                #
+#  LES FEUILLES  #
+#    DE STYLE    #
+#                #
+##################
+
+
+Fenêtre > Feuilles de style
 Lorsque je modifie une feuille de style (Paragraphe ou Caractère), je n'ai pas d'aperçu pour juger en direct des changements que je suis en train d'opérer. Pour modifier un feuille de style, je dois cliquer dans le pictogramme qui représente un crayon.
 
 CÉSURE
@@ -115,11 +152,13 @@ TABULATION
 
 
 
+
 #######################
 #                     #
 #  LES BIBLIOTHÈQUES  #
 #                     #
 #######################
+
 
 Les Bibliothèques permettent de créer des éléments qu'on utilise régulièrement pour respecter une charte graphique, de journal par exemple. Ainsi nous aurons sous la main, grâce aux Bibliothèques, les titres, les sous-titres, les colonnes, etc.
 
@@ -130,12 +169,13 @@ Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bib
 
 
 
-##################
-#                #
-# LES RACCOURCIS #
-# CLAVIER        #
-#                #
-##################
+
+####################
+#                  #
+#  LES RACCOURCIS  #
+#     CLAVIER      #
+#                  #
+####################
 
 
 CMD + Z 
@@ -159,11 +199,12 @@ Propriétés de la page. Inaccessible depuis un gabarit.
 
 
 
-################
-#              #
-# LES GABARITS #
-#              #
-################
+
+##################
+#                #
+#  LES GABARITS  #
+#                #
+##################
 
 
 Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page" et se rendre dans "Pages > Repères et grille de maquette…".
