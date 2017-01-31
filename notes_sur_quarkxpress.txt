@@ -1,5 +1,3 @@
-[pour un bon affichage dans Github, enregistrer le document avec un corps de police à 11 pt]
-
 ####################
 #                  #
 #      NOTES       #
@@ -22,8 +20,12 @@ Lorsque, dans le document, n'est pas précisé où l'utilisateur doit se rendre 
 #             #
 ###############
 
-Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + G) : affichage du document avant impression
-Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + I) : affichage du document avec ses repères, marges, annotations, etc.
+
+Affichage du document avant impression :
+Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + G)
+
+Affichage du document avec ses repères, marges, annotations, etc :
+Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CMD + I)
 
 
 
@@ -33,11 +35,12 @@ Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CM
 #              #
 ################
 
+
 Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
 
 Outil Contenu d'image (R) : former un cadre pour importer une image.
 
-Outil Modification de texte (T) : modifie le texte, comme son nom l'indique, mais modifie aussi le contenu d'un bloc image. Par exemple, si je souhaite supprimer une image sans toucher au bloc j'utilise alors l'Outil Modification de texte pour cliquer dans l'image pour la sélectionner et la supprimer. Le bloc restera intact.
+Outil Modification de texte (T) : modifie le texte comme son nom l'indique, mais modifie aussi le contenu d'un bloc image. Par exemple, si je souhaite supprimer une image sans toucher au bloc j'utilise alors l'Outil Modification de texte pour sélectionner l'image et la supprimer. Le bloc reste intact.
 
 Outil Chaînage de texte (N)
 	Outil Séparation de texte (N)
@@ -65,6 +68,19 @@ LES REPÈRES
 
 
 
+####################
+#                  #
+#     PALETTE      #
+#  SPÉCIFICATIONS  #
+#                  #
+####################
+
+
+OMBRE PORTÉE
+L'ombre portée est contrôlable via la palette Spécifications.
+
+
+
 ###############
 #             #
 #  LES BLOCS  #
@@ -74,7 +90,7 @@ LES REPÈRES
 
 IMPORTATION D'UNE IMAGE
 
-Lorsque l'on a importé une image on peut faire "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" pour redimensionner l'image selon le bloc,.
+Lorsque l'on a importé une image on a le choix entre : "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" pour redimensionner l'image selon le bloc.
 
 
 BLOC DE TEXTE
@@ -85,6 +101,10 @@ Le "Bloc de texte" se manipule depuis la palette Spécifications.
 Édition > Feuille de Style > Paragraphes
 
 Le pictogramme chaînage (sorte de 8 horizontal) pour relier des blocs texte entre eux.
+
+Pour mettre un fond de couleur au Bloc de texte, cliquer dans le bloc avec l'Outil Déplacement (V).
+
+Pour insérer du Lorem Ipsum, se rendre dans "Utilitaires > Insérer un indicateur de position texte".
 
 
 HABILLAGE
@@ -180,7 +200,7 @@ Une boite de dialogue, avec comme titre le nom que vous avez donné à votre bib
 
 CMD + Z 
 
-Dans QuarXPress, cmd + z peut se répéter plusieurs fois.
+Peut se répéter plusieurs fois.
 
 
 SHIFT + CMD + M
@@ -198,6 +218,13 @@ SHIFT + OPTIONS + CMD + P
 Propriétés de la page. Inaccessible depuis un gabarit.
 
 
+CMD + 0
+
+Affichage écran
+
+OPTIONS + clic
+
+Outil panoramique. Pour se balader de pages en pages. Le pointeur de la souris se transforme en main.
 
 
 ##################
@@ -208,3 +235,44 @@ Propriétés de la page. Inaccessible depuis un gabarit.
 
 
 Possibilité de modifier les marges du gabarit. Ce sont les repères bleus (les repères d'une page sont verts). Il faut donc entrer dans un gabarit via "Disposition de page" et se rendre dans "Pages > Repères et grille de maquette…".
+
+
+
+##################
+#                #
+#  LES DÉGRADÉS  #
+#   DE COULEUR   #
+#                #
+##################
+
+
+Fenêtre > Dégradés de couleurs
+Pas d'Outil. Le dégradé de couleurs se contrôle depuis sa Palette.
+
+
+
+################
+#              #
+#  LES IMAGES  #
+#              #
+################
+
+
+RETOURNEMENT
+Retournement horizontal ou vertical, "Style > Retourner horizontalement" et "Style > Retourner verticalement" ou utiliser les flèches dans la palette Spécifications (onglet Accueil). 
+
+
+
+###############
+#             #
+#  LES PUCES  #
+#             #
+###############
+
+
+CREER UNE LISTE
+Une liste est un paragraphe avec une puce. Créer une "Feuille de style de caractères". Utiliser Wingding, Wingding 2, Wingding 3, Zapf Dingbats comme police. Faire une recherche du caractère en créant un champ texte pour passer toutes les touches du clavier. Cette "Feuille de style de caractères" permet de choisir la police. Ouvrir "Édition > Styles de puces, de numérotation et de relief". Créer un "Style de puce". On y intégrera le caractère (on a retenu la touche du clavier correspondante) et la "Feuille de style de caractères" que l'on vient de créer. 
+
+La puce est choisie. Maintenant on va régler la marge.
+
+Ouvrir "Édition > Styles de puces, de numérotation et de relief". Créer un "Style de relief". On indique en millimètres l'indentation et à quel style de puce il sera rattaché (ici, le style de puce qu'on vient de créer).
