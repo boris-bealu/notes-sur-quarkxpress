@@ -1,3 +1,6 @@
+[pour un bon affichage dans Github, enregistrer le document avec un corps de police à 11 pt]
+
+
 ####################
 #                  #
 #      NOTES       #
