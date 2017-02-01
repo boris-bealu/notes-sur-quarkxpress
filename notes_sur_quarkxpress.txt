@@ -130,6 +130,9 @@ VERROUILLAGE ET DEVERROUILLAGE
 Bloc > Verrouiller > Position (F6). L'élément sera toujours sélectionné. Vérifier qu'il est bien verrouillé en mettant le pointeur de la souris dessus, un cadenas apparaîtra en guise de pointeur.
 
 
+RETOURNEMENT
+Pour retourner un bloc (différent d'une image), activer la commande "Bloc > Retourner la forme > Horizontalement" ou "Bloc > Retourner la forme > Verticalement"
+
 
 ##################
 #                #
@@ -218,6 +221,11 @@ Adapte l'image à la taille du bloc
 SHIFT + OPTIONS + CMD + P
 
 Propriétés de la page. Inaccessible depuis un gabarit.
+
+
+SHIFT + OPTIONS + CMD + V
+
+Coller sur place.
 
 
 CMD + 0
