@@ -1,11 +1,15 @@
-########################
-########################
-###                  ###
-###      NOTES       ###
-###  SUR QUARXPRESS  ###
-###                  ###
-########################
-########################
+##############################
+#                            #
+#  ########################  #
+#  ########################  #
+#  ###                  ###  #
+#  ###      NOTES       ###  #
+#  ###  SUR QUARXPRESS  ###  #
+#  ###                  ###  #
+#  ########################  #
+#  ########################  #
+#                            #
+##############################
 
 
 COURS SUIVIS EN STAGE À L’INFA-PACA, SESSION 2009-2010
@@ -38,7 +42,7 @@ Affichage > Ensembles de vues > Prévisualisation de sortie (SHIFT + OPTION + CM
 ################
 
 
-Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Spécifications)
+Outil Déplacement (V) : pour sélectionner un objet, en obtenir des infos (lisibles dans la palette Mesures)
 
 Outil Contenu d'image (R) : former un cadre pour importer une image.
 
@@ -73,13 +77,13 @@ LES REPÈRES
 ####################
 #                  #
 #     PALETTE      #
-#  SPÉCIFICATIONS  #
+#     MESURES      #
 #                  #
 ####################
 
 
 OMBRE PORTÉE
-L'ombre portée est contrôlable via la palette Spécifications.
+L'ombre portée est contrôlable via la palette Mesures.
 
 
 
@@ -92,12 +96,22 @@ L'ombre portée est contrôlable via la palette Spécifications.
 
 IMPORTATION D'UNE IMAGE
 
-Lorsque l'on a importé une image on a le choix entre : "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image, "Style > Mettre l'image à l'échelle du bloc" pour redimensionner l'image selon le bloc.
+Lorsque l'on a importé une image dans un bloc tracé avec l'Outil Modification d'image, 
+
+depuis l'onglet Style du menu, on a le choix entre : 
+_ "Style > Adapter le bloc aux dimensions de l'image" pour redimensionner le bloc selon l'image,
+_ "Style > Mettre l'image à l'échelle du bloc" pour redimensionner l'image selon le bloc,
+_ "Style > Centrer l'image SHIFT + CMD + M),
+
+depuis l'onglet Bloc du menu, on peut :
+_ "Bloc > Forme (cercle, rectangles avec différents angles…)
+
+On peut importer une image dans un bloc tracé avec l'Outil Bloc Rectangle, l'Outil Bloc Ovale ou l'Outil étoile. Lorsque la forme est tracée faire "Bloc > Contenu > Image" puis "Fichier > Importer" pour aller chercher l'image.  
 
 
 BLOC DE TEXTE
 
-Le "Bloc de texte" se manipule depuis la palette Spécifications. 
+Le "Bloc de texte" se manipule depuis la palette Mesures. 
 
 Édition > Feuille de Style > Caractères
 Édition > Feuille de Style > Paragraphes
@@ -113,7 +127,7 @@ HABILLAGE
 
 Lorsqu'une image est sur un texte, celle-ci peut-être intégrée proprement grâce à la fonction Habillage.
 
-Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifier que "Habiller chaque coté de texte" soit coché dans la palette Spécifications (onglet "Bloc de texte"). Sélectionner ensuite le bloc image, toujours avec l'Outil Déplacement. Dans la palette Spécifications, se rendre dans l'onglet "Détourage" afin de vérifier que "Bloc" est sélectionné dans le menu déroulant. Se rendre ensuite dans l'onglet "Habillage". Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage et Limites de l'image".
+Avec l'Outil Déplacement, placer le bloc texte derriere le bloc image. Vérifier que "Habiller chaque coté de texte" soit coché dans la palette Mesures (onglet "Bloc de texte"). Sélectionner ensuite le bloc image, toujours avec l'Outil Déplacement. Dans la palette Mesures, se rendre dans l'onglet "Détourage" afin de vérifier que "Bloc" est sélectionné dans le menu déroulant. Se rendre ensuite dans l'onglet "Habillage". Dans le menu déroulant, on a le choix entre autres, avec "Bloc, Idem détourage et Limites de l'image".
 
 
 FILET
@@ -122,7 +136,7 @@ FILET
 
 ALIGNEMENT
 
-Bloc > Espacer/Aligner ou dans la fenêtre Spécifications, Espacer/Aligner. Entre deux éléments, celui qui servira de repère, sur lequel l'autre élément se calera, sera le premier qui a été sélectionné.
+Bloc > Espacer/Aligner ou dans la fenêtre Mesures, Espacer/Aligner. Entre deux éléments, celui qui servira de repère, sur lequel l'autre élément se calera, sera le premier qui a été sélectionné.
 
 
 VERROUILLAGE ET DEVERROUILLAGE
@@ -208,22 +222,27 @@ CMD + Z
 Peut se répéter plusieurs fois.
 
 
+CMD + D ou SHIFT + ALT + glisser 
+
+Dupliquer.
+
+
 SHIFT + CMD + M
 
 Centre l'image dans un bloc
 
 
-SHIFT + OPTIONS + CMD + F
+SHIFT + ALT + CMD + F
 
 Adapte l'image à la taille du bloc
 
 
-SHIFT + OPTIONS + CMD + P
+SHIFT + ALT + CMD + P
 
 Propriétés de la page. Inaccessible depuis un gabarit.
 
 
-SHIFT + OPTIONS + CMD + V
+SHIFT + ALT + CMD + V
 
 Coller sur place.
 
@@ -232,7 +251,7 @@ CMD + 0
 
 Affichage écran
 
-OPTIONS + clic
+ALT + clic
 
 Outil panoramique. Pour se balader de pages en pages. Le pointeur de la souris se transforme en main.
 
@@ -269,7 +288,7 @@ Pas d'Outil. Le dégradé de couleurs se contrôle depuis sa Palette.
 
 
 RETOURNEMENT
-Retournement horizontal ou vertical, "Style > Retourner horizontalement" et "Style > Retourner verticalement" ou utiliser les flèches dans la palette Spécifications (onglet Accueil). 
+Retournement horizontal ou vertical, "Style > Retourner horizontalement" et "Style > Retourner verticalement" ou utiliser les flèches dans la palette Mesures (onglet Accueil). 
 
 
 
@@ -281,7 +300,7 @@ Retournement horizontal ou vertical, "Style > Retourner horizontalement" et "Sty
 
 
 CREER UNE LISTE
-Une liste est un paragraphe avec une puce. Créer une "Feuille de style de caractères". Utiliser Wingding, Wingding 2, Wingding 3, Zapf Dingbats comme police. Faire une recherche du caractère en créant un champ texte pour passer toutes les touches du clavier. Cette "Feuille de style de caractères" permet de choisir la police. Ouvrir "Édition > Styles de puces, de numérotation et de relief". Créer un "Style de puce". On y intégrera le caractère (on a retenu la touche du clavier correspondante) et la "Feuille de style de caractères" que l'on vient de créer. 
+Une liste est un paragraphe avec une puce. Créer une "Feuille de style de caractères". Utiliser Bodoni Ornaments, We Spray, Monotype Sorts, OldEgyptGlyphs, MT Extra, infini picto, Bookshelf Symbol 7, Webdings, Wingding, Wingding 2, Wingding 3, Zapf Dingbats, Old Retro Label tfb comme police. Faire une recherche du caractère en créant un champ texte pour passer toutes les touches du clavier. Cette "Feuille de style de caractères" permet de choisir la police. Ouvrir "Édition > Styles de puces, de numérotation et de relief". Créer un "Style de puce". On y intégrera le caractère (on a retenu la touche du clavier correspondante) et la "Feuille de style de caractères" que l'on vient de créer. 
 
 La puce est choisie. Maintenant on va régler la marge.
 
