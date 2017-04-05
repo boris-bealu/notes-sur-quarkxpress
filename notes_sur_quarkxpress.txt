@@ -251,9 +251,15 @@ CMD + 0
 
 Affichage écran
 
+
 ALT + clic
 
 Outil panoramique. Pour se balader de pages en pages. Le pointeur de la souris se transforme en main.
+
+
+SHIFT + OPTION + CMD + clic
+
+Accéder à un élément pourtant recouvert en totalité par un autre élément. Le clic se fait sur l'élément que l'on souhaite atteindre.
 
 
 ##################
